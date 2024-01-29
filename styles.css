@@ -4,6 +4,7 @@ body {
 
 .main-container {
     width: 1280px;
+    display: flex;
     padding-top: 160px;
     padding-left: 80px;
 }
@@ -23,4 +24,15 @@ body {
     width: 495px;
     padding-top: 32px;
     font-size: 24px;
+}
+
+.submit {
+    width: 222px;
+    height: 66px;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    border: none;
+    border-radius: 40px;
+    margin-top: 32px;
 }
