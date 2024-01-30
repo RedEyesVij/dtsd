@@ -36,3 +36,17 @@ body {
     border-radius: 40px;
     margin-top: 32px;
 }
+
+.icon-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.title-cell {
+    display: flex;
+}
+
+.title-number {
+    font-size: 28px;
+    font-family: Lato Bold;
+}
