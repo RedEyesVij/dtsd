@@ -40,13 +40,31 @@ body {
 .icon-container {
     display: flex;
     flex-direction: column;
+    padding-left: 80px;
 }
 
 .title-cell {
     display: flex;
+    padding-bottom: 78px;
+}
+
+.title-box {
+    padding-left: 32px;
+
 }
 
 .title-number {
     font-size: 28px;
     font-family: Lato Bold;
+    padding-bottom: 4px;
+}
+
+.galery {
+    display: flex;
+    width: 1312px;
+    border-style: solid;
+    border-radius: 32px;
+    background-color: white;
+    margin-top: 118px;
+    margin-bottom: 64px;
 }
