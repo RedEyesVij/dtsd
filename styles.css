@@ -7,14 +7,14 @@ body {
 }
 
 .main-container {
-    /* width: 1280px; */
-    padding-top: 160px;
-    padding-left: 80px;
+    /* padding-top: 160px;
+    padding-left: 80px; */
 }
 
 .uper-container {
     display: flex;
     justify-content: space-between;
+    margin-top: 118px;
 }
 
 .header-container {
@@ -78,13 +78,12 @@ body {
 .galery {
     display: flex;
     width: 1312px;
-    border-style: solid;
+    overflow: hidden;
     border-radius: 32px;
-
     margin-top: 118px;
-    margin-bottom: 64px;
 }
 
+/* 
 .pikcha {
     z-index: -1;
-}
+} */
